@@ -1,6 +1,6 @@
-### Eyo! I'm Ayman Cabotaje aka The Coding Dinosaur 🦖🦕
+## Eyo! I'm Ayman Cabotaje aka The Coding Dinosaur 🦖🦕
 
-## I'm a Full-Stack Developer, a Licensed Electronics Engineer, a Food Photographer and a Sunday School Teacher
+### I'm a Full-Stack Developer, a Licensed Electronics Engineer, a Food Photographer and a Sunday School Teacher
 
 - 🔭 I’m currently working on QR Registration App
 - 🌱 I’m currently learning Nginx
