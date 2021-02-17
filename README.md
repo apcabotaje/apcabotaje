@@ -1,16 +1,13 @@
-### Hi there 👋
+### Eyo! I'm Ayman Cabotaje aka The Coding Dinosaur 🦖🦕
 
-<!--
-**apcabotaje/apcabotaje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Full-Stack Developer, a Licensed Electronics Engineer, a Food Photographer and a Sunday School Teacher
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on QR Registration App
+- 🌱 I’m currently learning Nginx
+- 👯 I’m looking to collaborate on MERN Stack
+- 🤔 I’m looking for help with AWS
+- 💬 Ask me about anything.. I mean anything literally 🤣
+- 📫 How to reach me: [contact me](mailto:apcabotaje@gmail.com)
+- 😄 Pronouns: Him/He/Dino
+- ⚡ Fun fact: "I'm a software developer who doesn't drink coffee"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
